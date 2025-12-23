@@ -31,9 +31,9 @@ public class PoseSubscriber : MonoBehaviour
             transform.position = Vector3.up * 100f;
             return;
         }
-
-        transform.position = msg.position.From<FLU>();
-        transform.rotation = msg.orientation.From<FLU>();
+        
+        transform.position = Vecto3.Lerp(transform.position, msg.position.From<FLU>(), 0.3f);
+        transform.rotation = Quaternion.Lerp(transform.rotation, msg.orientation.From<FLU>(), 0.3f);
 
 
     }
