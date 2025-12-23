@@ -32,7 +32,7 @@ public class PoseSubscriber : MonoBehaviour
             return;
         }
         
-        transform.position = Vecto3.Lerp(transform.position, msg.position.From<FLU>(), 0.3f);
+        transform.position = Vector3.Lerp(transform.position, msg.position.From<FLU>(), 0.3f);
         transform.rotation = Quaternion.Lerp(transform.rotation, msg.orientation.From<FLU>(), 0.3f);
 
 
