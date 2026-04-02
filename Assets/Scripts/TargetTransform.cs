@@ -1,11 +1,5 @@
-using RosMessageTypes.Geometry;
-using TMPro;
-using Unity.Robotics.ROSTCPConnector;
-using UnityEditor.SceneManagement;
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.DualShock.LowLevel;
-using UnityEngine.XR.Interaction.Toolkit;
+
 using UnityEngine.XR.Interaction.Toolkit.Locomotion.Teleportation;
 
 

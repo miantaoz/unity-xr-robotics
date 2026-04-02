@@ -1,6 +1,4 @@
 using RosMessageTypes.Geometry;
-using RosMessageTypes.Sensor;
-using TreeEditor;
 using Unity.Robotics.ROSTCPConnector;
 using Unity.Robotics.ROSTCPConnector.ROSGeometry;
 using UnityEngine;

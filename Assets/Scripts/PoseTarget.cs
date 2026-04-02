@@ -25,7 +25,7 @@ public class PoseTarget : MonoBehaviour
         publisher.enabled = false;
 
         // add model
-        model = GameObjectUtility.DuplicateGameObject(parent.GetNamedChild("model"));
+        model = Instantiate(parent.GetNamedChild("model"));
         model.transform.SetParent(child.transform, false);
         foreach (Renderer model_renderer in model.GetComponentsInChildren<Renderer>())
         {

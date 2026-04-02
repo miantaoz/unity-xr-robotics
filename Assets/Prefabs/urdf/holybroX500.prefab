@@ -199,6 +199,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -220,9 +222,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &146491577592365502
 GameObject:
@@ -331,6 +335,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -352,9 +358,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &211304325020448694
 GameObject:
@@ -991,6 +999,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1012,9 +1022,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &604438753868187702
 GameObject:
@@ -1395,6 +1407,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1416,9 +1430,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &917435017945537040
 GameObject:
@@ -1481,6 +1497,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1502,9 +1520,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &929917203984627970
 GameObject:
@@ -1772,6 +1792,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1793,9 +1815,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &947056466049486689
 GameObject:
@@ -2434,6 +2458,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2455,9 +2481,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1315539450424786763
 GameObject:
@@ -2853,6 +2881,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2874,9 +2904,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1632510356556451346
 GameObject:
@@ -2939,6 +2971,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2960,9 +2994,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1747483157709230630
 GameObject:
@@ -3025,6 +3061,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3046,9 +3084,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1772025047817919116
 GameObject:
@@ -3165,6 +3205,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3186,9 +3228,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1798968436113681150
 GameObject:
@@ -3297,6 +3341,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3318,9 +3364,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1862970838578843145
 GameObject:
@@ -3428,6 +3476,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3449,9 +3499,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &1909236393489955871
 GameObject:
@@ -3962,6 +4014,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3983,9 +4037,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &2005608807443752106
 GameObject:
@@ -4526,6 +4582,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4547,9 +4605,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &2372189579109356659
 GameObject:
@@ -4758,6 +4818,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4779,9 +4841,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &2521006601554045039
 GameObject:
@@ -4989,6 +5053,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5010,9 +5076,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &2761456240162426545
 GameObject:
@@ -5129,6 +5197,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5150,9 +5220,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &2829417617484464378
 GameObject:
@@ -5369,6 +5441,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5390,9 +5464,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &2881792447973635462
 GameObject:
@@ -6120,6 +6196,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6141,9 +6219,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &3294646926187870833
 GameObject:
@@ -6206,6 +6286,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6227,9 +6309,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &3351826020187393241
 GameObject:
@@ -6429,7 +6513,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 0.005882353
-  m_ParentAnchorPosition: {x: -0.013419625, y: -0.000000014901161, z: 1.41909156e-14}
+  m_ParentAnchorPosition: {x: -0.013419625, y: -0.000000014901161, z: 1.4190917e-14}
   m_ParentAnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
@@ -6564,852 +6648,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46398bc5d6905ad429a6d2d973afe002, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1 &3559993703628480160
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4159950888748733326}
-  - component: {fileID: 8214807415879719212}
-  - component: {fileID: 4679593038696220320}
-  - component: {fileID: 5209420832042429625}
-  - component: {fileID: 2980116447419385747}
-  - component: {fileID: 666821081833307848}
-  - component: {fileID: 6504394455339238223}
-  - component: {fileID: 2050701528726318932}
-  - component: {fileID: 1777634348947245860}
-  - component: {fileID: 1530226991466977067}
-  - component: {fileID: 2277162149596521364}
-  - component: {fileID: 633362521312545318}
-  - component: {fileID: 5720501202001080627}
-  - component: {fileID: 4311394378513906558}
-  - component: {fileID: 7256987601644006346}
-  - component: {fileID: 6166169614010586975}
-  - component: {fileID: 5793898700336777239}
-  - component: {fileID: 7668849135094598101}
-  - component: {fileID: 2673359281881260510}
-  - component: {fileID: 5919262901889070863}
-  - component: {fileID: 1098856921950270692}
-  - component: {fileID: 1305488825430576360}
-  - component: {fileID: 8260670070387483917}
-  - component: {fileID: 7124920549944189573}
-  - component: {fileID: 5539299613405565693}
-  - component: {fileID: 401084845721543543}
-  - component: {fileID: 8841765817743248955}
-  - component: {fileID: 7156701570526440687}
-  - component: {fileID: 4774045953163245861}
-  - component: {fileID: 8440208079689247960}
-  - component: {fileID: 56973402183470764}
-  - component: {fileID: 2213250310179426508}
-  - component: {fileID: 1879543127523997828}
-  - component: {fileID: 1068103607351351668}
-  - component: {fileID: 5948426925247086600}
-  - component: {fileID: 2352404954479386766}
-  - component: {fileID: 1539431310602797757}
-  - component: {fileID: 7163036413497713625}
-  - component: {fileID: 6331489231243348548}
-  - component: {fileID: 6705621690153656821}
-  - component: {fileID: 1124125648144053071}
-  - component: {fileID: 1195730642956456320}
-  - component: {fileID: 9129147736696191405}
-  m_Layer: 0
-  m_Name: Plugins
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &4159950888748733326
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 4761985453861941005}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8214807415879719212
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fae53a797b5479c43b9a3aeac7e35e5c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4679593038696220320
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_17_to_18\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &5209420832042429625
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_16_to_17\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &2980116447419385747
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_15_to_16\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &666821081833307848
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_14_to_15\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &6504394455339238223
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_13_to_14\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &2050701528726318932
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_12_to_13\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &1777634348947245860
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_11_to_12\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &1530226991466977067
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_10_to_11\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &2277162149596521364
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_9_to_10\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &633362521312545318
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_8_to_9\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &5720501202001080627
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_7_to_8\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &4311394378513906558
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_6_to_7\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &7256987601644006346
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_5_to_6\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &6166169614010586975
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_4_to_5\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &5793898700336777239
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_3_to_4\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &7668849135094598101
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_2_to_3\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &2673359281881260510
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_right_from_1_to_2\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &5919262901889070863
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_17_to_18\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &1098856921950270692
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_16_to_17\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &1305488825430576360
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_15_to_16\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &8260670070387483917
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_14_to_15\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &7124920549944189573
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_13_to_14\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &5539299613405565693
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_12_to_13\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &401084845721543543
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_11_to_12\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &8841765817743248955
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_10_to_11\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &7156701570526440687
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_9_to_10\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &4774045953163245861
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_8_to_9\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &8440208079689247960
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_7_to_8\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &56973402183470764
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_6_to_7\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &2213250310179426508
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_5_to_6\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &1879543127523997828
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_4_to_5\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &1068103607351351668
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_3_to_4\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &5948426925247086600
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_2_to_3\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &2352404954479386766
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"flex_joint_left_from_1_to_2\">\r\n  <implicitSpringDamper>0</implicitSpringDamper>\r\n 
-    <springReference>0</springReference>\r\n  <springStiffness>0.5</springStiffness>\r\n</gazebo>"
---- !u!114 &1539431310602797757
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo>\r\n  <plugin filename=\"gz-sim-joint-controller-system\"
-    name=\"gz::sim::systems::JointController\">\r\n    <joint_name>servo_move_right</joint_name>\r\n   
-    <initial_velocity>0.0</initial_velocity>\r\n    <topic>joint_right_vel</topic>\r\n 
-    </plugin>\r\n  <plugin filename=\"gz-sim-joint-controller-system\" name=\"gz::sim::systems::JointController\">\r\n   
-    <joint_name>servo_move_left</joint_name>\r\n    <initial_velocity>0.0</initial_velocity>\r\n   
-    <topic>joint_left_vel</topic>\r\n  </plugin>\r\n  <plugin filename=\"SoftFinger\"
-    name=\"gz::sim::systems::SoftFinger\">\r\n    <joint_name>flex_joint_right_from_1_to_2</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_2_to_3</joint_name>\r\n    <joint_name>flex_joint_right_from_3_to_4</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_4_to_5</joint_name>\r\n    <joint_name>flex_joint_right_from_5_to_6</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_6_to_7</joint_name>\r\n    <joint_name>flex_joint_right_from_7_to_8</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_8_to_9</joint_name>\r\n    <joint_name>flex_joint_right_from_9_to_10</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_10_to_11</joint_name>\r\n    <joint_name>flex_joint_right_from_11_to_12</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_12_to_13</joint_name>\r\n    <joint_name>flex_joint_right_from_13_to_14</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_14_to_15</joint_name>\r\n    <joint_name>flex_joint_right_from_15_to_16</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_16_to_17</joint_name>\r\n    <joint_name>flex_joint_right_from_17_to_18</joint_name>\r\n   
-    <topic>bend_r</topic>\r\n    <steps>18</steps>\r\n  </plugin>\r\n  <plugin filename=\"SoftFinger\"
-    name=\"gz::sim::systems::SoftFinger\">\r\n    <joint_name>flex_joint_left_from_1_to_2</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_2_to_3</joint_name>\r\n    <joint_name>flex_joint_left_from_3_to_4</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_4_to_5</joint_name>\r\n    <joint_name>flex_joint_left_from_5_to_6</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_6_to_7</joint_name>\r\n    <joint_name>flex_joint_left_from_7_to_8</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_8_to_9</joint_name>\r\n    <joint_name>flex_joint_left_from_9_to_10</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_10_to_11</joint_name>\r\n    <joint_name>flex_joint_left_from_11_to_12</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_12_to_13</joint_name>\r\n    <joint_name>flex_joint_left_from_13_to_14</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_14_to_15</joint_name>\r\n    <joint_name>flex_joint_left_from_15_to_16</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_16_to_17</joint_name>\r\n    <joint_name>flex_joint_left_from_17_to_18</joint_name>\r\n   
-    <topic>bend_l</topic>\r\n    <steps>18</steps>\r\n  </plugin>\r\n</gazebo>"
---- !u!114 &7163036413497713625
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo reference=\"base_link\">\r\n  <sensor name=\"air_pressure_sensor\"
-    type=\"air_pressure\">\r\n    <always_on>1</always_on>\r\n    <update_rate>50</update_rate>\r\n   
-    <air_pressure>\r\n      <pressure>\r\n        <noise type=\"gaussian\">\r\n         
-    <mean>0</mean>\r\n          <stddev>0.01</stddev>\r\n        </noise>\r\n     
-    </pressure>\r\n    </air_pressure>\r\n  </sensor>\r\n  <sensor name=\"imu_sensor\"
-    type=\"imu\">\r\n    <always_on>1</always_on>\r\n    <update_rate>1000</update_rate>\r\n   
-    <imu>\r\n      <angular_velocity>\r\n        <x>\r\n          <noise type=\"gaussian\">\r\n           
-    <mean>0</mean>\r\n            <stddev>0.0001</stddev>\r\n            <dynamic_bias_stddev>0</dynamic_bias_stddev>\r\n           
-    <dynamic_bias_correlation_time>1000</dynamic_bias_correlation_time>\r\n         
-    </noise>\r\n        </x>\r\n        <y>\r\n          <noise type=\"gaussian\">\r\n           
-    <mean>0</mean>\r\n            <stddev>0.0001</stddev>\r\n            <dynamic_bias_stddev>0</dynamic_bias_stddev>\r\n           
-    <dynamic_bias_correlation_time>1000</dynamic_bias_correlation_time>\r\n         
-    </noise>\r\n        </y>\r\n        <z>\r\n          <noise type=\"gaussian\">\r\n           
-    <mean>0</mean>\r\n            <stddev>0.0001</stddev>\r\n            <dynamic_bias_stddev>0</dynamic_bias_stddev>\r\n           
-    <dynamic_bias_correlation_time>1000</dynamic_bias_correlation_time>\r\n         
-    </noise>\r\n        </z>\r\n      </angular_velocity>\r\n      <linear_acceleration>\r\n       
-    <x>\r\n          <noise type=\"gaussian\">\r\n            <mean>0</mean>\r\n           
-    <stddev>0.0001</stddev>\r\n            <dynamic_bias_stddev>0</dynamic_bias_stddev>\r\n           
-    <dynamic_bias_correlation_time>300</dynamic_bias_correlation_time>\r\n         
-    </noise>\r\n        </x>\r\n        <y>\r\n          <noise type=\"gaussian\">\r\n           
-    <mean>0</mean>\r\n            <stddev>0.0001</stddev>\r\n            <dynamic_bias_stddev>0</dynamic_bias_stddev>\r\n           
-    <dynamic_bias_correlation_time>300</dynamic_bias_correlation_time>\r\n         
-    </noise>\r\n        </y>\r\n        <z>\r\n          <noise type=\"gaussian\">\r\n           
-    <mean>0</mean>\r\n            <stddev>0.0001</stddev>\r\n            <dynamic_bias_stddev>0</dynamic_bias_stddev>\r\n           
-    <dynamic_bias_correlation_time>300</dynamic_bias_correlation_time>\r\n         
-    </noise>\r\n        </z>\r\n      </linear_acceleration>\r\n    </imu>\r\n  </sensor>\r\n 
-    <sensor name=\"navsat_sensor\" type=\"navsat\">\r\n    <always_on>1</always_on>\r\n   
-    <update_rate>100</update_rate>\r\n  </sensor>\r\n</gazebo>"
---- !u!114 &6331489231243348548
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo>\r\n  <link name=\"rotor_0\">\r\n    <gravity>true</gravity>\r\n   
-    <self_collide>false</self_collide>\r\n    <velocity_decay />\r\n    <pose>0.175
-    -0.175 0.03 0 0 0</pose>\r\n    <inertial>\r\n      <mass>0.016076923076923075</mass>\r\n     
-    <inertia>\r\n        <ixx>3.8464910483993325e-07</ixx>\r\n        <iyy>2.6115851691700804e-05</iyy>\r\n       
-    <izz>2.649858234714004e-05</izz>\r\n      </inertia>\r\n    </inertial>\r\n   
-    <visual name=\"rotor_0_visual\">\r\n      <pose>0 0 0 0 0 0</pose>\r\n      <geometry>\r\n       
-    <mesh>\r\n          <scale>0.72 0.72 0.8461538461538461</scale>\r\n         
-    <uri>meshes\\centered_prop_ccw.stl</uri>\r\n        </mesh>\r\n      </geometry>\r\n     
-    <material>\r\n        <script>\r\n          <name>Gazebo/Blue</name>\r\n         
-    <uri>file://media/materials/scripts/gazebo.material</uri>\r\n        </script>\r\n     
-    </material>\r\n    </visual>\r\n    <collision name=\"rotor_0_collision\">\r\n     
-    <pose>0 0 0 0 0 0 </pose>\r\n      <geometry>\r\n        <box>\r\n          <size>0.2792307692307692
-    0.016923076923076923 0.0008461538461538462</size>\r\n        </box>\r\n     
-    </geometry>\r\n      <surface>\r\n        <contact>\r\n          <ode>\r\n           
-    <min_depth>0.001</min_depth>\r\n            <max_vel>0</max_vel>\r\n         
-    </ode>\r\n        </contact>\r\n        <friction>\r\n          <ode />\r\n       
-    </friction>\r\n      </surface>\r\n    </collision>\r\n  </link>\r\n  <joint
-    name=\"rotor_0_joint\" type=\"revolute\">\r\n    <parent>base_link</parent>\r\n   
-    <child>rotor_0</child>\r\n    <axis>\r\n      <xyz>0 0 1</xyz>\r\n      <limit>\r\n       
-    <lower>-1e+16</lower>\r\n        <upper>1e+16</upper>\r\n      </limit>\r\n     
-    <dynamics>\r\n        <spring_reference>0</spring_reference>\r\n        <spring_stiffness>0</spring_stiffness>\r\n     
-    </dynamics>\r\n    </axis>\r\n  </joint>\r\n  <plugin filename=\"gz-sim-multicopter-motor-model-system\"
-    name=\"gz::sim::systems::MulticopterMotorModel\">\r\n    <jointName>rotor_0_joint</jointName>\r\n   
-    <linkName>rotor_0</linkName>\r\n    <turningDirection>ccw</turningDirection>\r\n   
-    <timeConstantUp>0.0125</timeConstantUp>\r\n    <timeConstantDown>0.025</timeConstantDown>\r\n   
-    <maxRotVelocity>1000.0</maxRotVelocity>\r\n    <motorConstant>3.419432e-05</motorConstant>\r\n   
-    <momentConstant>0.016</momentConstant>\r\n    <commandSubTopic>command/motor_speed</commandSubTopic>\r\n   
-    <motorNumber>0</motorNumber>\r\n    <rotorDragCoefficient>8.06428e-05</rotorDragCoefficient>\r\n   
-    <rollingMomentCoefficient>1e-06</rollingMomentCoefficient>\r\n    <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>\r\n   
-    <motorType>velocity</motorType>\r\n  </plugin>\r\n</gazebo>"
---- !u!114 &6705621690153656821
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo>\r\n  <link name=\"rotor_1\">\r\n    <gravity>true</gravity>\r\n   
-    <self_collide>false</self_collide>\r\n    <velocity_decay />\r\n    <pose>-0.175
-    0.175 0.03 0 0 0</pose>\r\n    <inertial>\r\n      <mass>0.016076923076923075</mass>\r\n     
-    <inertia>\r\n        <ixx>3.8464910483993325e-07</ixx>\r\n        <iyy>2.6115851691700804e-05</iyy>\r\n       
-    <izz>2.649858234714004e-05</izz>\r\n      </inertia>\r\n    </inertial>\r\n   
-    <visual name=\"rotor_1_visual\">\r\n      <pose>0 0 0 0 0 0</pose>\r\n      <geometry>\r\n       
-    <mesh>\r\n          <scale>0.72 0.72 0.8461538461538461</scale>\r\n         
-    <uri>meshes\\centered_prop_ccw.stl</uri>\r\n        </mesh>\r\n      </geometry>\r\n     
-    <material>\r\n        <script>\r\n          <name>Gazebo/Blue</name>\r\n         
-    <uri>file://media/materials/scripts/gazebo.material</uri>\r\n        </script>\r\n     
-    </material>\r\n    </visual>\r\n    <collision name=\"rotor_1_collision\">\r\n     
-    <pose>0 0 0 0 0 0 </pose>\r\n      <geometry>\r\n        <box>\r\n          <size>0.2792307692307692
-    0.016923076923076923 0.0008461538461538462</size>\r\n        </box>\r\n     
-    </geometry>\r\n      <surface>\r\n        <contact>\r\n          <ode>\r\n           
-    <min_depth>0.001</min_depth>\r\n            <max_vel>0</max_vel>\r\n         
-    </ode>\r\n        </contact>\r\n        <friction>\r\n          <ode />\r\n       
-    </friction>\r\n      </surface>\r\n    </collision>\r\n  </link>\r\n  <joint
-    name=\"rotor_1_joint\" type=\"revolute\">\r\n    <parent>base_link</parent>\r\n   
-    <child>rotor_1</child>\r\n    <axis>\r\n      <xyz>0 0 1</xyz>\r\n      <limit>\r\n       
-    <lower>-1e+16</lower>\r\n        <upper>1e+16</upper>\r\n      </limit>\r\n     
-    <dynamics>\r\n        <spring_reference>0</spring_reference>\r\n        <spring_stiffness>0</spring_stiffness>\r\n     
-    </dynamics>\r\n    </axis>\r\n  </joint>\r\n  <plugin filename=\"gz-sim-multicopter-motor-model-system\"
-    name=\"gz::sim::systems::MulticopterMotorModel\">\r\n    <jointName>rotor_1_joint</jointName>\r\n   
-    <linkName>rotor_1</linkName>\r\n    <turningDirection>ccw</turningDirection>\r\n   
-    <timeConstantUp>0.0125</timeConstantUp>\r\n    <timeConstantDown>0.025</timeConstantDown>\r\n   
-    <maxRotVelocity>1000.0</maxRotVelocity>\r\n    <motorConstant>3.419432e-05</motorConstant>\r\n   
-    <momentConstant>0.016</momentConstant>\r\n    <commandSubTopic>command/motor_speed</commandSubTopic>\r\n   
-    <motorNumber>1</motorNumber>\r\n    <rotorDragCoefficient>8.06428e-05</rotorDragCoefficient>\r\n   
-    <rollingMomentCoefficient>1e-06</rollingMomentCoefficient>\r\n    <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>\r\n   
-    <motorType>velocity</motorType>\r\n  </plugin>\r\n</gazebo>"
---- !u!114 &1124125648144053071
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo>\r\n  <link name=\"rotor_2\">\r\n    <gravity>true</gravity>\r\n   
-    <self_collide>false</self_collide>\r\n    <velocity_decay />\r\n    <pose>0.175
-    0.175 0.03 0 0 0</pose>\r\n    <inertial>\r\n      <mass>0.016076923076923075</mass>\r\n     
-    <inertia>\r\n        <ixx>3.8464910483993325e-07</ixx>\r\n        <iyy>2.6115851691700804e-05</iyy>\r\n       
-    <izz>2.649858234714004e-05</izz>\r\n      </inertia>\r\n    </inertial>\r\n   
-    <visual name=\"rotor_2_visual\">\r\n      <pose>0 0 0 0 0 0</pose>\r\n      <geometry>\r\n       
-    <mesh>\r\n          <scale>0.72 0.72 0.8461538461538461</scale>\r\n         
-    <uri>meshes\\centered_prop_ccw.stl</uri>\r\n        </mesh>\r\n      </geometry>\r\n     
-    <material>\r\n        <script>\r\n          <name>Gazebo/Red</name>\r\n         
-    <uri>file://media/materials/scripts/gazebo.material</uri>\r\n        </script>\r\n     
-    </material>\r\n    </visual>\r\n    <collision name=\"rotor_2_collision\">\r\n     
-    <pose>0 0 0 0 0 0 </pose>\r\n      <geometry>\r\n        <box>\r\n          <size>0.2792307692307692
-    0.016923076923076923 0.0008461538461538462</size>\r\n        </box>\r\n     
-    </geometry>\r\n      <surface>\r\n        <contact>\r\n          <ode>\r\n           
-    <min_depth>0.001</min_depth>\r\n            <max_vel>0</max_vel>\r\n         
-    </ode>\r\n        </contact>\r\n        <friction>\r\n          <ode />\r\n       
-    </friction>\r\n      </surface>\r\n    </collision>\r\n  </link>\r\n  <joint
-    name=\"rotor_2_joint\" type=\"revolute\">\r\n    <parent>base_link</parent>\r\n   
-    <child>rotor_2</child>\r\n    <axis>\r\n      <xyz>0 0 1</xyz>\r\n      <limit>\r\n       
-    <lower>-1e+16</lower>\r\n        <upper>1e+16</upper>\r\n      </limit>\r\n     
-    <dynamics>\r\n        <spring_reference>0</spring_reference>\r\n        <spring_stiffness>0</spring_stiffness>\r\n     
-    </dynamics>\r\n    </axis>\r\n  </joint>\r\n  <plugin filename=\"gz-sim-multicopter-motor-model-system\"
-    name=\"gz::sim::systems::MulticopterMotorModel\">\r\n    <jointName>rotor_2_joint</jointName>\r\n   
-    <linkName>rotor_2</linkName>\r\n    <turningDirection>cw</turningDirection>\r\n   
-    <timeConstantUp>0.0125</timeConstantUp>\r\n    <timeConstantDown>0.025</timeConstantDown>\r\n   
-    <maxRotVelocity>1000.0</maxRotVelocity>\r\n    <motorConstant>3.419432e-05</motorConstant>\r\n   
-    <momentConstant>0.016</momentConstant>\r\n    <commandSubTopic>command/motor_speed</commandSubTopic>\r\n   
-    <motorNumber>2</motorNumber>\r\n    <rotorDragCoefficient>8.06428e-05</rotorDragCoefficient>\r\n   
-    <rollingMomentCoefficient>1e-06</rollingMomentCoefficient>\r\n    <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>\r\n   
-    <motorType>velocity</motorType>\r\n  </plugin>\r\n</gazebo>"
---- !u!114 &1195730642956456320
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo>\r\n  <link name=\"rotor_3\">\r\n    <gravity>true</gravity>\r\n   
-    <self_collide>false</self_collide>\r\n    <velocity_decay />\r\n    <pose>-0.175
-    -0.175 0.03 0 0 0</pose>\r\n    <inertial>\r\n      <mass>0.016076923076923075</mass>\r\n     
-    <inertia>\r\n        <ixx>3.8464910483993325e-07</ixx>\r\n        <iyy>2.6115851691700804e-05</iyy>\r\n       
-    <izz>2.649858234714004e-05</izz>\r\n      </inertia>\r\n    </inertial>\r\n   
-    <visual name=\"rotor_3_visual\">\r\n      <pose>0 0 0 0 0 0</pose>\r\n      <geometry>\r\n       
-    <mesh>\r\n          <scale>0.72 0.72 0.8461538461538461</scale>\r\n         
-    <uri>meshes\\centered_prop_ccw.stl</uri>\r\n        </mesh>\r\n      </geometry>\r\n     
-    <material>\r\n        <script>\r\n          <name>Gazebo/Red</name>\r\n         
-    <uri>file://media/materials/scripts/gazebo.material</uri>\r\n        </script>\r\n     
-    </material>\r\n    </visual>\r\n    <collision name=\"rotor_3_collision\">\r\n     
-    <pose>0 0 0 0 0 0 </pose>\r\n      <geometry>\r\n        <box>\r\n          <size>0.2792307692307692
-    0.016923076923076923 0.0008461538461538462</size>\r\n        </box>\r\n     
-    </geometry>\r\n      <surface>\r\n        <contact>\r\n          <ode>\r\n           
-    <min_depth>0.001</min_depth>\r\n            <max_vel>0</max_vel>\r\n         
-    </ode>\r\n        </contact>\r\n        <friction>\r\n          <ode />\r\n       
-    </friction>\r\n      </surface>\r\n    </collision>\r\n  </link>\r\n  <joint
-    name=\"rotor_3_joint\" type=\"revolute\">\r\n    <parent>base_link</parent>\r\n   
-    <child>rotor_3</child>\r\n    <axis>\r\n      <xyz>0 0 1</xyz>\r\n      <limit>\r\n       
-    <lower>-1e+16</lower>\r\n        <upper>1e+16</upper>\r\n      </limit>\r\n     
-    <dynamics>\r\n        <spring_reference>0</spring_reference>\r\n        <spring_stiffness>0</spring_stiffness>\r\n     
-    </dynamics>\r\n    </axis>\r\n  </joint>\r\n  <plugin filename=\"gz-sim-multicopter-motor-model-system\"
-    name=\"gz::sim::systems::MulticopterMotorModel\">\r\n    <jointName>rotor_3_joint</jointName>\r\n   
-    <linkName>rotor_3</linkName>\r\n    <turningDirection>cw</turningDirection>\r\n   
-    <timeConstantUp>0.0125</timeConstantUp>\r\n    <timeConstantDown>0.025</timeConstantDown>\r\n   
-    <maxRotVelocity>1000.0</maxRotVelocity>\r\n    <motorConstant>3.419432e-05</motorConstant>\r\n   
-    <momentConstant>0.016</momentConstant>\r\n    <commandSubTopic>command/motor_speed</commandSubTopic>\r\n   
-    <motorNumber>3</motorNumber>\r\n    <rotorDragCoefficient>8.06428e-05</rotorDragCoefficient>\r\n   
-    <rollingMomentCoefficient>1e-06</rollingMomentCoefficient>\r\n    <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>\r\n   
-    <motorType>velocity</motorType>\r\n  </plugin>\r\n</gazebo>"
---- !u!114 &9129147736696191405
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3559993703628480160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76add797bdb1d8c4b8276633f6e67167, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PluginText: "<gazebo>\r\n  <plugin filename=\"gz-sim-odometry-publisher-system\"
-    name=\"gz::sim::systems::OdometryPublisher\">\r\n    <odom_frame>odom</odom_frame>\r\n   
-    <robot_base_frame>base_link</robot_base_frame>\r\n    <dimensions>3</dimensions>\r\n 
-    </plugin>\r\n  <plugin filename=\"gz-sim-joint-state-publisher-system\" name=\"gz::sim::systems::JointStatePublisher\">\r\n   
-    <joint_name>servo_move_right</joint_name>\r\n    <joint_name>servo_move_left</joint_name>\r\n 
-    </plugin>\r\n  <plugin filename=\"gz-sim-joint-state-publisher-system\" name=\"gz::sim::systems::JointStatePublisher\">\r\n   
-    <joint_name>servo_move_right</joint_name>\r\n    <joint_name>servo_move_left</joint_name>\r\n   
-    <!-- right -->\r\n    <joint_name>flex_joint_right_from_1_to_2</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_2_to_3</joint_name>\r\n    <joint_name>flex_joint_right_from_3_to_4</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_4_to_5</joint_name>\r\n    <joint_name>flex_joint_right_from_5_to_6</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_6_to_7</joint_name>\r\n    <joint_name>flex_joint_right_from_7_to_8</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_8_to_9</joint_name>\r\n    <joint_name>flex_joint_right_from_9_to_10</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_10_to_11</joint_name>\r\n    <joint_name>flex_joint_right_from_11_to_12</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_12_to_13</joint_name>\r\n    <joint_name>flex_joint_right_from_13_to_14</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_14_to_15</joint_name>\r\n    <joint_name>flex_joint_right_from_15_to_16</joint_name>\r\n   
-    <joint_name>flex_joint_right_from_16_to_17</joint_name>\r\n    <joint_name>flex_joint_right_from_17_to_18</joint_name>\r\n   
-    <!-- left -->\r\n    <joint_name>flex_joint_left_from_1_to_2</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_2_to_3</joint_name>\r\n    <joint_name>flex_joint_left_from_3_to_4</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_4_to_5</joint_name>\r\n    <joint_name>flex_joint_left_from_5_to_6</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_6_to_7</joint_name>\r\n    <joint_name>flex_joint_left_from_7_to_8</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_8_to_9</joint_name>\r\n    <joint_name>flex_joint_left_from_9_to_10</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_10_to_11</joint_name>\r\n    <joint_name>flex_joint_left_from_11_to_12</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_12_to_13</joint_name>\r\n    <joint_name>flex_joint_left_from_13_to_14</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_14_to_15</joint_name>\r\n    <joint_name>flex_joint_left_from_15_to_16</joint_name>\r\n   
-    <joint_name>flex_joint_left_from_16_to_17</joint_name>\r\n    <joint_name>flex_joint_left_from_17_to_18</joint_name>\r\n   
-    <topic>/complete_joint_states</topic>\r\n    <joint_state_publisher_name>complete_joint_state_publisher</joint_state_publisher_name>\r\n 
-    </plugin>\r\n  <plugin filename=\"MocapPub\" name=\"gz::sim::systems::MocapPub\"></plugin>\r\n</gazebo>"
 --- !u!1 &3604090686411351936
 GameObject:
   m_ObjectHideFlags: 0
@@ -7524,6 +6762,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -7545,9 +6785,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &3733593533154374233
 GameObject:
@@ -7609,7 +6851,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 0.005882353
-  m_ParentAnchorPosition: {x: -0.01344472, y: -0.000000029802322, z: 0}
+  m_ParentAnchorPosition: {x: -0.01344472, y: -0.000000029802322, z: 1.6908976e-21}
   m_ParentAnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
@@ -8473,6 +7715,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -8494,9 +7738,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &4204717603233043111
 GameObject:
@@ -9061,6 +8307,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9082,9 +8330,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &4448135130942011921
 GameObject:
@@ -9336,6 +8586,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9357,9 +8609,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &4629413218727519455
 GameObject:
@@ -9467,6 +8721,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9488,9 +8744,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &4769311245250302625
 GameObject:
@@ -9999,6 +9257,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10020,9 +9280,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &5023612071942457512
 GameObject:
@@ -10398,7 +9660,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 0.005882353
-  m_ParentAnchorPosition: {x: -0.013407047, y: -0.000000029802322, z: 1.4204205e-14}
+  m_ParentAnchorPosition: {x: -0.013407047, y: -0.000000029802322, z: 1.42042055e-14}
   m_ParentAnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
@@ -11236,6 +10498,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -11257,9 +10521,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &5449518512823794696
 GameObject:
@@ -11951,6 +11217,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -11972,9 +11240,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &5753477677173659191
 GameObject:
@@ -12190,6 +11460,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -12211,9 +11483,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &5839912251793861639
 GameObject:
@@ -12702,6 +11976,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -12723,9 +11999,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &5946386791463961893
 GameObject:
@@ -12788,6 +12066,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -12809,9 +12089,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &5980997028755607130
 GameObject:
@@ -12874,6 +12156,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -12895,9 +12179,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &6062564079633331523
 GameObject:
@@ -13450,6 +12736,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -13471,9 +12759,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &6177257812954333753
 GameObject:
@@ -15736,6 +15026,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -15757,9 +15049,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &7139460173597127388
 GameObject:
@@ -15967,7 +15261,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 0.005882353
-  m_ParentAnchorPosition: {x: -0.013419625, y: -0.000000014901161, z: 2.8381833e-14}
+  m_ParentAnchorPosition: {x: -0.013419625, y: -0.000000014901161, z: 2.8381835e-14}
   m_ParentAnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
@@ -16451,6 +15745,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -16472,9 +15768,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &7412447598564800623
 GameObject:
@@ -16872,6 +16170,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -16893,9 +16193,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &7719245497823613152
 GameObject:
@@ -19025,9 +18327,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4761985453861941005}
-  - component: {fileID: 6586618331840280927}
-  - component: {fileID: 6437357938347910672}
-  - component: {fileID: 3334542889635125505}
   - component: {fileID: 2308630579126444400}
   - component: {fileID: 3015877104506425748}
   - component: {fileID: 255069682260862374}
@@ -19051,60 +18350,9 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 4159950888748733326}
   - {fileID: 5773153747345427457}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6586618331840280927
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8420750608661053722}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf4c79288754864b8d522b69f4b52a8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  FilePath: 
-  chosenAxis: 0
-  currentOrientation: 0
-  collisionExceptions: []
---- !u!114 &6437357938347910672
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8420750608661053722}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d607ea46a579d44c4b19a6322ce4b9b2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  selectedJoint: 
-  selectedIndex: 0
-  control: 0
-  stiffness: 0
-  damping: 0
-  forceLimit: 0
-  speed: 5
-  torque: 100
-  acceleration: 5
-  highLightColor: {r: 1, g: 0, b: 0, a: 1}
---- !u!114 &3334542889635125505
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8420750608661053722}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4c3b1ae6d771d14c84a06e9cd44f772, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &2308630579126444400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19706,7 +18954,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 0.005882353
-  m_ParentAnchorPosition: {x: -0.01344472, y: -0.000000029802322, z: 0}
+  m_ParentAnchorPosition: {x: -0.01344472, y: -0.000000029802322, z: 1.6908976e-21}
   m_ParentAnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
@@ -20336,6 +19584,8 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -20357,9 +19607,11 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &9178466723514104512
 GameObject:
